@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(54, 212, 218);
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: crimson;
+}
+
+p:hover{
+    color: aqua;
+    text-shadow: 5px;
+    text-decoration-style: wavy;
+    text-indent: 4ch;
+}
